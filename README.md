@@ -1,4 +1,4 @@
-### Hi there, I’m @Mathew-Kohan 👋
+### Hi there, I’m @MatKohan 👋
 
 
 - 👀 I’m interested in games development.
