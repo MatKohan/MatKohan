@@ -38,12 +38,17 @@ I build spaces that feel good to play and have a strong sense of place, taking l
 ## 🛠 Toolbox
 
 <p>
-<img src="https://img.shields.io/badge/Unreal_Engine-102532?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=60d9c6" alt="Unreal Engine" />
-<img src="https://img.shields.io/badge/Unity-102532?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Blender-102532?style=for-the-badge&amp;logo=blender&amp;logoColor=efbd70" alt="Blender" />
-<img src="https://img.shields.io/badge/Rhino-102532?style=for-the-badge" alt="Rhino" />
+<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal_Engine-102532?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=60d9c6" alt="Unreal Engine" /></a>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-102532?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /></a>
+<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-102532?style=for-the-badge&amp;logo=blender&amp;logoColor=efbd70" alt="Blender" /></a>
+<a href="https://www.rhino3d.com/"><img src="https://img.shields.io/badge/Rhino-102532?style=for-the-badge&amp;logo=rhinoceros&amp;logoColor=white" alt="Rhino" /></a>
+<a href="https://quadspinner.com/Gaea/"><img src="https://img.shields.io/badge/Gaea-102532?style=for-the-badge" alt="Gaea" /></a>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Blueprints-102532?style=for-the-badge" alt="Blueprints" />
 <img src="https://img.shields.io/badge/C%23-102532?style=for-the-badge" alt="C sharp" />
+<img src="https://img.shields.io/badge/PCG-102532?style=for-the-badge" alt="PCG" />
 </p>
 
 **Prototype → implement → refine.** I test ideas in-engine and script interactions and events with Unreal Engine Blueprints and C#.
