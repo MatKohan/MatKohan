@@ -41,6 +41,7 @@ I build spaces that feel good to play and have a strong sense of place, taking l
 <img src="https://img.shields.io/badge/Unreal_Engine-102532?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=60d9c6" alt="Unreal Engine" />
 <img src="https://img.shields.io/badge/Unity-102532?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/Blender-102532?style=for-the-badge&amp;logo=blender&amp;logoColor=efbd70" alt="Blender" />
+<img src="https://img.shields.io/badge/Rhino-102532?style=for-the-badge" alt="Rhino" />
 <img src="https://img.shields.io/badge/Blueprints-102532?style=for-the-badge" alt="Blueprints" />
 <img src="https://img.shields.io/badge/C%23-102532?style=for-the-badge" alt="C sharp" />
 </p>
