@@ -49,10 +49,10 @@ I build spaces that feel good to play and have a strong sense of place, taking l
 
 ## 🎮 Selected work
 
-| Multiplayer spaces | Environments & worlds |
-| :--- | :--- |
-| [**Samla TDM Map ↗**](https://www.artstation.com/artwork/rzzeEm) | [**Triton Platform ↗**](https://www.artstation.com/artwork/K3qogr) |
-| [**POI 02 Samla ↗**](https://www.artstation.com/artwork/V88kBX) | [**Sisu House ↗**](https://www.artstation.com/artwork/kQ39Jl) |
+<table>
+<tr><td width="50%" align="center"><a href="https://www.artstation.com/artwork/rzzeEm"><img src="https://cdna.artstation.com/p/assets/covers/images/103/392/456/smaller_square/mat-kohan-mat-kohan-tdm02-samla-thumbnail.jpg?1792540437" width="300" alt="Samla TDM Map" /><br/><b>Samla TDM Map ↗</b></a></td><td width="50%" align="center"><a href="https://www.artstation.com/artwork/K3qogr"><img src="https://cdnb.artstation.com/p/assets/covers/images/097/651/271/smaller_square/mat-kohan-mat-kohan-triton-platform-thumbnail.jpg?1774806469" width="300" alt="Triton Platform" /><br/><b>Triton Platform ↗</b></a></td></tr>
+<tr><td width="50%" align="center"><a href="https://www.artstation.com/artwork/V88kBX"><img src="https://cdnb.artstation.com/p/assets/covers/images/103/393/555/smaller_square/mat-kohan-mat-kohan-poi02-samla-thumbnail.jpg?1792544953" width="300" alt="POI 02 Samla" /><br/><b>POI 02 Samla ↗</b></a></td><td width="50%" align="center"><a href="https://www.artstation.com/artwork/kQ39Jl"><img src="https://cdnb.artstation.com/p/assets/covers/images/069/736/491/smaller_square/mat-kohan-mat-kohan-sisuhouse-thumbnail.jpg?1700855136" width="300" alt="Sisu House" /><br/><b>Sisu House ↗</b></a></td></tr>
+</table>
 
 <p align="center"><a href="https://www.artstation.com/mkohan"><b>Explore the full portfolio on ArtStation →</b></a></p>
 
@@ -60,7 +60,6 @@ I build spaces that feel good to play and have a strong sense of place, taking l
 
 ## 🤝 Let’s build something
 
-I’m looking to collaborate on **game jams**. Have an idea for a space, a world, or a playable prototype? [Let’s connect on LinkedIn](https://www.linkedin.com/in/m-kohan/).
+**Available for freelance and cool projects.** Have an idea for a space, a world, or a playable prototype? [Let’s connect on LinkedIn](https://www.linkedin.com/in/m-kohan/).
 
-<p align="center">⚡ Game Jams are delicious. &nbsp; · &nbsp; 😄 He/Him</p>
 <p align="center"><sub>Thoughtful layouts. Readable spaces. Memorable worlds.</sub></p>
